@@ -7,6 +7,5 @@ My hope is that by the end I'll have something like [Roundcube](http://roundcube
 
 This is open source now and always so people can install it on their own servers.
 
-When it's further along I'll put it on npm, but at the time of this writing it's a brand new, untouched, virgin project which has no place in the general stream.
 
-- Victor
+\- Victor
