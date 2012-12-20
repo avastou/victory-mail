@@ -15,6 +15,7 @@
     "express": "3.0.5",
     "imap": "0.3.2",
     "jade": "*",
+    "mongoose": "*",
     "stylus": "*"
   }
 }
