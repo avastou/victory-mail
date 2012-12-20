@@ -1,0 +1,11 @@
+{
+    "name": "victory-mail",
+    "description": "Victory Mail - a node.js based IMAP client",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Victor Quinn <mail@victorquinn.com> (http://victorquinn.com)",
+    "dependencies": {
+        "express": "3.x",
+        "imap": "0.3.2"
+    }
+}
