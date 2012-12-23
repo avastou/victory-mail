@@ -3,19 +3,19 @@
   "description": "Victory Mail - a node.js based IMAP client",
   "version": "0.0.1",
   "private": true,
-  "scripts": {
-    "start": "node app"
-  },
+  "main": "./server.js",
   "author": "Victor Quinn <mail@victorquinn.com> (http://victorquinn.com)",
   "homepage": "http://victorymailapp.com",
   "bugs" : {
     "url": "https://github.com/victorquinn/victory-mail/issues"
   },
   "dependencies": {
-    "express": "3.0.5",
+    "derby": "*",
+    "express": "3.0.0beta4",
     "imap": "0.3.2",
-    "jade": "*",
-    "mongoose": "*",
-    "stylus": "*"
+    "gzippo": ">=0.1.7"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.3.3"
   }
 }
